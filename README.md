@@ -1,4 +1,4 @@
-# README - Banco de Dados de Vendas
+# Banco de Dados de Vendas
 
 Este repositório contém instruções SQL para criar e consultar um banco de dados de vendas chamado "BD_VENDAS". O banco de dados inclui várias tabelas, como TBL_ESTADO_CIVIL, TBL_TIPO_FONE, TBL_CLIENTE, TBL_TELEFONE, TBL_CONJUGE, TBL_PRODUTO, TBL_FUNC, TBL_PEDIDO, TBL_ITEM_PEDIDO, TBL_DEPENDENTE e TBL_PREMIO, que são relacionadas de acordo com os dados de vendas.
 
